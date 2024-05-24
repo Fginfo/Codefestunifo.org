@@ -1,0 +1,46 @@
+*{ background-color: rgb(200, 165, 235);
+font-size: larger;
+}
+div{
+    text-align: initial;
+    font-weight: bolder;
+    font-size: larger;
+    display: inline-block;
+}
+p{
+    color: rgb(192, 30, 52);
+}
+div, marquee{
+    color: green;
+    font-weight: bolder;
+}
+button{ border-radius: 51px;
+color: green;
+}
+.name{ 
+    border-radius: 5px;
+}
+.main{
+    color: rgb(116, 161, 116);
+    font-size: large;
+}
+ li{display: inline-block;
+    font-size: small;
+    color: blueviolet;
+    float: right;
+    padding-left: 5px;
+    }
+       li :hover{
+        background-color: thistle;
+        
+    }
+     li .active{
+        color: green;
+    }
+    
+    
+     h1{ color: blue;}
+     li{
+        float: right;
+    background-color: blueviolet;
+    }

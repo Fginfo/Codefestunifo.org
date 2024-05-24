@@ -1,0 +1,23 @@
+*{ background-color: bisque;}
+input{background-color: beige;
+
+    display: list-item;
+}
+select{
+    color: blueviolet;
+}
+div{
+    color: green;
+    font-size: larger;
+    font-weight: bolder;
+}
+p{
+    font-weight: bolder;
+    font-size: small;
+    color: blue;
+}
+.response{
+    font-style: italic;
+    color: darkmagenta;
+    text-align: center;
+}
